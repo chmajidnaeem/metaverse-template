@@ -12,7 +12,6 @@ Key Features
 •	SEO-friendly structure with custom meta tags
 •	Fully responsive design out of the box
 
-
 Key Features
 Next.js Framework: Experience fast, efficient server-side rendering and optimized static site generation for a blazing-fast application.
 Tailwind CSS: Style easily using Tailwind's utility-first approach, allowing you to build complex, responsive designs without custom CSS.
@@ -48,6 +47,7 @@ Open http://localhost:3000 in your browser to see the application in action.
 •	Next.js for server-side rendering
 •	TypeScript for type safety and improved tooling
 •	Tailwind CSS for responsive and efficient styling
+
 
 
 
