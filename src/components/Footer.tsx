@@ -68,3 +68,4 @@ const Footer = () => (
 )
 
 export default Footer
+//commented footer
